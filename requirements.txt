@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+Flask-Login
+Flask-Mail
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+itsdangerous
+Pillow
+email-validator
